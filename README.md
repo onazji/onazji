@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onazji
-- 👀 I’m interested in Programming Gameplay and design the look/feel of games
+- 👀 I’m interested in Programming Gameplay, Website Design or anything that can be coded. I especially enjoy look/feel, aestetic/atmosphere of games because I appreiate us programmers.
 - 🌱 I’m currently learning Java, Css, html, javascript
-- 💞️ I’m looking to collaborate on any 2D game that is new currently being lifted off the ground
+- 💞️ I’m looking to collaborate on any new project currently being lifted off the ground
 - 📫 How to reach me by email onazjidrayden@gmail.com
 
 <!---
