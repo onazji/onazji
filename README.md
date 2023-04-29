@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @onazji
-- 👀 I’m interested in Programming Gameplay, Website Design or anything that can be coded. I especially enjoy look/feel, aesthetic/atmosphere of games because I appreiate us programmers.
-- 🌱 I’m currently learning Java, Css, html, javascript
-- 💞️ I’m looking to collaborate on any new project currently being lifted off the ground
+- 🙌I am a Full Stack Developer
+- 🌳 I’m currently skilled in Java, Css, html, javascript,Jetbeans,Maven,Junit,Postman,Swagger Open API,xml,Json 
+- 👀 I’m interested in anything that can be coded. I enjoy coding games because dreams can be made fun and interactive
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me by email onazjidrayden@gmail.com
+- 🤳@nazjisketches for art
 
 <!---
 onazji/onazji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
